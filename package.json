@@ -1,0 +1,17 @@
+{
+  "name": "com.liangxiegame.logkit",
+  "version": "1.0.0",
+  "displayName": "LOGKit",
+  "description": "LOGKit 是一套简易的日志工具 | LOGKit is a simple log toolkit.easy 2 use and powerful",
+  "license": "MIT",
+  "unity": "2018.4",
+  "documentationUrl": "https://github.com/liangxiegame/LogKit",
+  "keywords": [
+    "LOG"
+  ],
+  "author": {
+    "name": "liangxie",
+    "email": "liangxiegame@163.com",
+    "url": "https://github.com/liangxiegame/LogKit"
+  }
+}
